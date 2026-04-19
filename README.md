@@ -46,7 +46,7 @@ But **"it is understood."**
 ### Level I — Foundation
 
 * [x] Project 1: Hello World API
-* [ ] Project 2: Routing & HTTP Methods
+* [x] Project 2: Routing & HTTP Methods
 * [ ] Project 3: Path & Query Parameters
 * [ ] Project 4: Request & Response Handling
 * [ ] Project 5: Todo API (In-Memory)
