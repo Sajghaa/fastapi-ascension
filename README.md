@@ -47,8 +47,8 @@ But **"it is understood."**
 
 * [x] Project 1: Hello World API
 * [x] Project 2: Routing & HTTP Methods
-* [ ] Project 3: Path & Query Parameters
-* [ ] Project 4: Request & Response Handling
+* [x] Project 3: Path & Query Parameters
+* [x] Project 4: Request & Response Handling
 * [ ] Project 5: Todo API (In-Memory)
 
 ### Level II — Core Backend
