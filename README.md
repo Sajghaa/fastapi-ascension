@@ -53,7 +53,7 @@ But **"it is understood."**
 
 ### Level II — Core Backend
 
-* [ ] PostgreSQL Setup
+* [x] PostgreSQL Setup
 * [ ] SQLAlchemy Models
 * [ ] CRUD with Database
 
