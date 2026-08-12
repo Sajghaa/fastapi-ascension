@@ -50,6 +50,11 @@ But **"it is understood."**
 * [x] Project 3: Path & Query Parameters
 * [x] Project 4: Request & Response Handling
 * [x] Project 5: Todo API (In-Memory)
+* [ ] Project 6: Calculator API with Advanced Validation
+* [ ] Project 7: Dependency Injection (DI) Playground
+* [ ] Project 8: Global Exception Handler Factory
+* [ ] Project 9: Middleware Stack (Logging + CORS + Timing)
+* [ ] Project 10: Async vs. Sync & BackgroundTasks
 
 ### Level II — Core Backend
 
